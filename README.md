@@ -84,4 +84,4 @@ Proposed a data-backed investment strategy for AstroSage’s operational and ser
 👨‍💻 Author
 
 Mohammed Zaid Inamdar
-🎓 B.E. in Information Science | Data Analytics & Business Intelligence Enthusiast
+🎓 B.E. in Information Science
